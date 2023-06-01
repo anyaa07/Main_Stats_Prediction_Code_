@@ -5,4 +5,5 @@
         Testing set = team record for 1 season & stats for one season
         Training set = team record for 2 seasons & stats for two seasons
         Merge the team record file and QB stats file on Team column
+        Model should predict QB stats based on ESPN or another reliable sources prediction for their teams record
 """
